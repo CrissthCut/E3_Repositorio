@@ -107,5 +107,8 @@ with open('AnálisisCOVID.csv') as archivo_csv:
  
         contador_lineas += 1
         print(f'Procesadas {len(lista_incidentes)} líneas.')
+        
+        
+ANA CRISTINA CAVAZOS OYERVIDEZ         
 
 
